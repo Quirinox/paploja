@@ -1,0 +1,51 @@
+C:\Users\ricar\source\repos\loja\loja\bin\Debug\loja.exe.config
+C:\Users\ricar\source\repos\loja\loja\bin\Debug\loja.exe
+C:\Users\ricar\source\repos\loja\loja\bin\Debug\loja.pdb
+C:\Users\ricar\source\repos\loja\loja\obj\Debug\loja.csprojAssemblyReference.cache
+C:\Users\ricar\source\repos\loja\loja\obj\Debug\loja.Form1.resources
+C:\Users\ricar\source\repos\loja\loja\obj\Debug\loja.Venda.resources
+C:\Users\ricar\source\repos\loja\loja\obj\Debug\loja.Properties.Resources.resources
+C:\Users\ricar\source\repos\loja\loja\obj\Debug\loja.csproj.GenerateResource.cache
+C:\Users\ricar\source\repos\loja\loja\obj\Debug\loja.exe
+C:\Users\ricar\source\repos\loja\loja\obj\Debug\loja.pdb
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.csprojAssemblyReference.cache
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.exe
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.pdb
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\bin\Debug\loja.exe.config
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\bin\Debug\loja.exe
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\bin\Debug\loja.pdb
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\bin\Debug\Google.Protobuf.dll
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\bin\Debug\BouncyCastle.Crypto.dll
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\bin\Debug\Ubiety.Dns.Core.dll
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\bin\Debug\Renci.SshNet.dll
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\bin\Debug\MySql.Data.xml
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.frmenu.resources
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.Venda.resources
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.VerStock.resources
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.Properties.Resources.resources
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.csproj.GenerateResource.cache
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.csproj.CopyComplete
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.WebUsers.resources
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.Fatura.resources
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.addStock.resources
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\bin\Debug\loja.exe.config
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\bin\Debug\loja.exe
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\bin\Debug\loja.pdb
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\bin\Debug\Google.Protobuf.dll
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\bin\Debug\BouncyCastle.Crypto.dll
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\bin\Debug\Ubiety.Dns.Core.dll
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\bin\Debug\Renci.SshNet.dll
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\bin\Debug\MySql.Data.xml
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.csprojAssemblyReference.cache
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.addStock.resources
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.Fatura.resources
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.frmenu.resources
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.Venda.resources
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.VerStock.resources
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.Properties.Resources.resources
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.WebUsers.resources
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.csproj.GenerateResource.cache
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.csproj.CopyComplete
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.exe
+F:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.pdb
+E:\ESCOLA  17-20\PAP\Visual Studio\lojas\loja\obj\Debug\loja.csproj.CoreCompileInputs.cache
